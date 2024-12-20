@@ -1,7 +1,8 @@
 Informações básicas
-**Observação**	                              __Descrição__
-Suporte inicial para macOS	              OS X 10.9, Mavericks.
-Último sistema operacional suportado    	macOS 12 Monterey.
+**Observação**	                              	
+__Descrição__
+**Suporte inicial para macOS**	OS X 10.9, Mavericks.
+__Último sistema operacional suportado__  macOS 12 Monterey.
 
 Formatar pendrive Fat32
 #Descompactar efi.zip no pendrive
